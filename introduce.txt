@@ -1,0 +1,12 @@
+Thank u! I'm really pursuide everyone here. Whith greate pleasure i wiil tell what i know abour testing, QA, Agile, me etc. useful things< for that when u will 
+come together for feedback< someone or eveyone, who knows, will speak: "Whu this guy shouldn't work with us and be a part of our team?"
+
+So, first:
+- The purpose of testing is verification, validation and error detection (in order to find and fix the problems)
+
+– Verification is checking for conformance and consistency by evaluating the results against pre-specified requirements. (Verification: Are we building the system right?)
+
+– Validation is the process of checking that what has been specified is what the user actually wanted. (Validation: Are we building the right system?)
+
+– Error Detection: finding if things happen when they shouldn’t or things don’t happen when they should.
+
